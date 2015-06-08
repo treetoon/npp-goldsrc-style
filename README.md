@@ -37,3 +37,5 @@ map "c1a0;w;-attack;w57;w1000;alias test _special special"
 unbindall
 
 seta command alias +left w500 "say hello world; exec half-life"
+
+![alt tag](https://github.com/treetoon/GoldSrc_style-syntax/blob/master/demo.png)
